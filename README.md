@@ -94,6 +94,11 @@ The following fruits and vegetables are supported for freshness detection:
 - Improve OCR accuracy and support multiple OCR engines for redundancy.
 - Optimize the performance of the detection and analysis pipeline for faster real-time results.
 
+## Contributors
+
+- [Dev Reddy](https://www.linkedin.com/in/devreddy07)
+- [Sharad Chandra Reddy](https://www.linkedin.com/in/sharad-chandra-reddy/)
+
 ## License
 
 This project is licensed under the MIT License.
@@ -105,8 +110,20 @@ This project is licensed under the MIT License.
 - **OpenAI** for text analysis
 - **Tailwind CSS** for frontend design
 
-## Contributors
+## References
 
-- [Dev Reddy](https://www.linkedin.com/in/devreddy07)
-- [Sharad Chandra Reddy](https://www.linkedin.com/in/sharad-chandra-reddy/)
+Data sets:
 
+1. [Fresh and Stale Classification](https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification)
+2. [Fruits and Vegetables Dataset](https://www.kaggle.com/datasets/muhriddinmuxiddinov/fruits-and-vegetables-dataset/data)
+3. [Fresh and Stale Images of Fruits and Vegetables](https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables/data)
+4. [Fruits Fresh and Rotten for Classification](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
+5. [Mango Detector (Fresh or Rotten)](https://universe.roboflow.com/philippines-mango-classification-4-types-rotten-or-fresh/mango-detector-fresh-or-rotten/dataset/2/download)
+6. [NIAID Dataset](https://data.niaid.nih.gov/resources?id=ZENODO_7224689)
+7. [Mendeley Dataset - Freshness Detection](https://data.mendeley.com/datasets/xkbjx8959c/1)
+8. [Freshness Article - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340922007594)
+9. [Mendeley Dataset - Fruits and Vegetables](https://data.mendeley.com/datasets/bdd69gyhv8/1)
+10. [Random Images Dataset](https://www.kaggle.com/datasets/ezzzio/random-images)
+11. [Random Image Sample Dataset](https://www.kaggle.com/datasets/pankajkumar2002/random-image-sample-dataset?select=data)
+12. [Supermarket Groceries Image Dataset](https://www.kaggle.com/datasets/aashithakanagala/supermarket-groceries-image-dataset?select=IMG_20220318_180707.jpg)
+13. [Grocery Dataset](https://universe.roboflow.com/new-workspace-wfzw3/grocery-dataset-q9fj2/dataset/5)
